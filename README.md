@@ -92,4 +92,5 @@ endmodule
 ![Screenshot 2024-04-25 154902](https://github.com/Narasimhan05/JKFLIPFLOP-USING-IF-ELSE/assets/132819871/50687298-920b-4fde-ba23-cd022b932733)
 
 **RESULTS**
+
 Thus the implementation of JK flipflop using verilog and validating their functionality using their functional tables was executed and the output was verified successfully.
